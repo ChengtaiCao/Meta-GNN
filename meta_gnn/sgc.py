@@ -78,7 +78,7 @@ if __name__ == '__main__':
     argparser.add_argument('--update_step_test', type=int, help='update steps for finetunning', default=10)
     argparser.add_argument('--task_num', type=int, help='meta batch size, namely task num', default=5)
     argparser.add_argument('--k_spt', type=int, help='k shot for support set', default=1)
-    argparser.add_argument('--k_qry', type=int, help='k shot for query set', default=15)
+    argparser.add_argument('--k_qry', type=int, help='k shot for query set', default=12)
     argparser.add_argument('--hidden', type=int, help='Number of hidden units', default=16)
 
     argparser.add_argument('--dataset', type=str, default='citeseer', help='Dataset to use.')
