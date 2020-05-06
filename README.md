@@ -1,4 +1,13 @@
-# Meta-GNN
+# Meta-GNN: On Few-shot Node Classification in Graph Meta-learning
+
+## Authors: 
+* [Fan Zhou]
+* [Chengtai Cao](https://github.com/ChengtaiCao)
+* [Kunpeng Zhang]
+* [Goce Trajcevski]
+* [Ting Zhong]
+* [Ji Geng]
+
 ## Desccription of Meta-GNN
 source_code for Meta-GNN (implement of Meta-GNN).<br>
 --Meta-GNN: On Few-shot Node Classification in Graph Meta-learning
