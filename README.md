@@ -1,6 +1,6 @@
-# Meta-GNN: On Few-shot Node Classification in Graph Meta-learning
+### Meta-GNN: On Few-shot Node Classification in Graph Meta-learning
 
-## Authors: 
+#### Authors: 
 * [Fan Zhou]
 * [Chengtai Cao](https://github.com/ChengtaiCao)
 * [Kunpeng Zhang]
@@ -8,21 +8,21 @@
 * [Ting Zhong]
 * [Ji Geng]
 
-## Desccription of Meta-GNN
+#### Desccription of Meta-GNN
 source_code for Meta-GNN (implement of Meta-GNN).<br>
 --Meta-GNN: On Few-shot Node Classification in Graph Meta-learning
 
-## Environment And Dependencies
+#### Environment And Dependencies
 PyTorch>=1.0.0<br> 
 Install other dependencies: `$ pip install -r requirement.txt`
 
-## Dataset
+#### Dataset
 We provide the citation network datasets under `meta_gnn/data/`.
 
-## Dataset Partition
+#### Dataset Partition
 We have shown the details of node partition in the paper.
 
-## Usage
+#### Usage
 For Meta-GNN:
 ```
 $ cd meta_gnn/
@@ -51,5 +51,5 @@ $ cd graphsage_fewshot/
 $ python graphsage.py --dataset cora --gpu 0
 ```
 
-## Reference
+#### Reference
 <br>Any comments and feedback are appreciated.
