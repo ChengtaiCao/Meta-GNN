@@ -9,11 +9,10 @@
 * [Ji Geng]
 
 #### Desccription of Meta-GNN
-source_code for Meta-GNN (implement of Meta-GNN).<br>
---Meta-GNN: On Few-shot Node Classification in Graph Meta-learning
+source_code for Meta-GNN (implement of Meta-GNN): [Meta-GNN: On Few-shot Node Classification in Graph Meta-learning](https://dl.acm.org/doi/10.1145/3357384.3358106)
 
 #### Environment And Dependencies
-PyTorch>=1.0.0<br> 
+PyTorch>=1.0.0  
 Install other dependencies: `$ pip install -r requirement.txt`
 
 #### Dataset
